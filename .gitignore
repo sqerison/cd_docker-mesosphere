@@ -1,0 +1,6 @@
+*.swp
+*~
+jenkins-stuff
+mesosslace-stuff
+registry-stuff
+app_marathon.json.tmp
